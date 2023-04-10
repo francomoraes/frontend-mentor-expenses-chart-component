@@ -35,7 +35,7 @@ Mobile 375px, with hover not-current day </br>
 
 ### Links
 
--   [Solution URL](https://francomoraes.github.io/frontend-mentor-expenses-chart-component/s)
+-   [Solution URL](https://francomoraes.github.io/frontend-mentor-expenses-chart-component/)
 
 ### Built with
 
