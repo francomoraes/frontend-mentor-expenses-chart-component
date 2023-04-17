@@ -6,12 +6,10 @@ This is a solution to the [Expenses chart component challenge on Frontend Mentor
 
 -   [Overview](#overview)
     -   [The challenge](#the-challenge)
-    -   [Screenshot](#screenshot)
     -   [Links](#links)
+    -   [Screenshot](#screenshot)
     -   [Built with](#built-with)
 -   [Author](#author)
-
-**Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
 
@@ -25,6 +23,10 @@ Users should be able to:
 -   See hover states for all interactive elements on the page
 -   **Bonus**: Use the JSON data file provided to dynamically size the bars on the chart
 
+### Links
+
+-   [Solution URL](https://francomoraes.github.io/frontend-mentor-expenses-chart-component/)
+
 ### Screenshot
 
 Desktop 1440px, with hover on current day
@@ -32,10 +34,6 @@ Desktop 1440px, with hover on current day
 
 Mobile 375px, with hover not-current day </br>
 ![](./public/Screenshots/Screenshot-Mobile-hover.png)
-
-### Links
-
--   [Solution URL](https://francomoraes.github.io/frontend-mentor-expenses-chart-component/)
 
 ### Built with
 
