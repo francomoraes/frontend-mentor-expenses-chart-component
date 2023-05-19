@@ -23,9 +23,9 @@ Users should be able to:
 -   See hover states for all interactive elements on the page
 -   **Bonus**: Use the JSON data file provided to dynamically size the bars on the chart
 
-### Links
+### Link
 
--   [Solution URL](https://francomoraes.github.io/frontend-mentor-expenses-chart-component/)
+-   [Solution URL](https://frontend-mentor-expenses-chart-component-one.vercel.app/))
 
 ### Screenshot
 
